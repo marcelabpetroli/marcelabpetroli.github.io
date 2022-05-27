@@ -43,18 +43,18 @@ li {
     padding: 16px;
     box-shadow: 1px 1px 4px rgb(0, 0, 0.2);
     margin: 32px;
-    background-color: rgb(238, 201, 196);
+    background-color: rgb(174 161 184);
     border-radius: 6px;
  }
 
  h2 {
-     color: rgb(78, 13, 5);
+     color: rgb(37 31 31);
      font-family: 'Oswald', sans-serif;
  }
 
  main p {
      margin: 12px;
-    color: rgb(71, 29, 22)
+    color: rgb(36 33 33)
  }
 
  .highlight-goal {
